@@ -1,0 +1,123 @@
+{
+   "checksum": "7ad0c009519fe7a7f0c8d4d29d930eeb",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13323904481834524",
+            "date_last_used": "13343253172673270",
+            "guid": "220c758d-d993-44b7-841d-aad8921373f0",
+            "id": "6",
+            "name": "Reticula | Vetores e Fotos | Baixar gratis",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://br.freepik.com/search?format=search&last_filter=type&last_value=vector&query=reticula&type=vector",
+            "visit_count": 0
+         }, {
+            "date_added": "13323904783382189",
+            "date_last_used": "13343253198252669",
+            "guid": "29bda595-c60f-48c8-983f-a23315b4c55e",
+            "id": "7",
+            "name": "Search | Brands of the World™",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.brandsoftheworld.com/search/logo?search_api_views_fulltext=Corinthians&page=2",
+            "visit_count": 0
+         }, {
+            "date_added": "13344008145220695",
+            "date_last_used": "0",
+            "guid": "1ae1e9c8-a995-4bdb-af96-49f17bda4eef",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Millions of PNG Images, Backgrounds and Vectors for Free Download | Pngtree",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://pngtree.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13385315634649113",
+            "date_last_used": "0",
+            "guid": "4888cb8a-b67d-4dca-8f22-fb95ccb68e4f",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Pin page",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://br.pinterest.com/pin/39406565484558202/",
+            "visit_count": 1
+         }, {
+            "date_added": "13393368861699886",
+            "date_last_used": "13393526373701851",
+            "guid": "d3e58624-0dd1-4726-968c-22a52432eb56",
+            "id": "10",
+            "name": "Síntese de Fala",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://voicechanger.im/pt/app/speech",
+            "visit_count": 3
+         }, {
+            "date_added": "13393527924942687",
+            "date_last_used": "0",
+            "guid": "175ac000-9318-4bae-825a-025f3d25c276",
+            "id": "11",
+            "name": "Mudança de voz concluída! | LALAL.AI",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.lalal.ai/pt-br/voice-changer/",
+            "visit_count": 1
+         }, {
+            "date_added": "13393541548994573",
+            "date_last_used": "0",
+            "guid": "f4299e6d-5e05-4f72-a925-7a2609e65b5f",
+            "id": "12",
+            "name": "FlexClip",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.flexclip.com/pt/editor/app",
+            "visit_count": 1
+         } ],
+         "date_added": "13405710261373530",
+         "date_last_used": "0",
+         "date_modified": "13393541548994573",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13405710261373530",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Outros favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13405710261373530",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos do celular",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCJTQ4hGaAQAAKg4QABgBIAAoBjAAOABAABIAKhhXS2dJL1pzM0hTdFBvSDl2Ym1zL0pnPT1IA6AGDBKtAQgMEqgBChx0Rk5CS0xCQVpHWVZBeW1NTFJsaHJUcCtHTFU9EiRmNDI5OWU2ZC01ZTA1LTRmNzItYTkyNS03YTI2MDllNjViNWYYACAAKAAwlLzEx40zOL/Uy+TzMkC/1Mvk8zJKHHFhUGtvRzVtOHZlT0VKQTRWSjY2b1ZQelIwWT1aHyId/XAxV1lpbFNXeFA4d1JNVGp4dFBIcGw1UHV4cz1lAAAAAMI+AmAFEq0BCAsSqAEKHDExS1BIQWU2QUpkK05DU2JhV1F1aVFkZDBNdz0SJDE3NWFjMDAwLTkzMTgtNGJhZS04MjVhLTAyNWYzZDI1YzI3NhgAIAAoADCRvMTHjTM4mpeM3vMyQJqXjN7zMkocdGs1L3kydEhFQXlyc3MxY3d0a0hQQXlYWVJjPVofIh37T2xPSXJnYVk2ajZrSHlVOW1OM09PVkxONUY4PWUAAAAAwj4CYAUSrQEIChKoAQocMEtEUzlPSjFTcGV4aTFWMCtMU3lyQTBRVXRZPRIkZDNlNTg2MjQtMGRkMS00NzI2LTk2OGMtMjJhNTI0MzJlYjU2GAAgACgAMJO8xMeNMziy3Z+S8zJAst2fkvMyShxUKzkvSzNXT2hUdTlIZFB2WkJoaE9NeElTMHM9Wh8iHfZ0S0N5ZTRtSWV5bzMzTDVhVmVFUUZzMm9ZSlk9ZQAAAADCPgJgBRKsAQgGEqcBChxMWXlsVjFmTEhRTTBBc3puZS9GNzhLN0Y1S0E9EiQyMjBjNzU4ZC1kOTkzLTQ0YjctODQxZC1hYWQ4OTIxMzczZjAYACAAKAAwkrzEx40zOJzg89nBMUCc4PPZwTFKHE10eE9mMnR0dG1LZk1hbGVRTzBGbnJ6d0JHST1aHiIcamY2TjBjTW5VWVVzcWhlNVVGQ0VyNGtndUhNPWUAAAAAwj4CYAUSjgEIARKJAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkNzQ5MjZiY2UtZjRkZi01YjM2LTkzOWQtODA5MmNhY2RlMTVhGAAgACgAMO2y89nBMTi2tfPZwTFAtrXz2cExShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAAMI+AmAAEq0BCAcSqAEKHDRXMFFiL2pvMXFLUkt0VmFLcmpITm1xUysycz0SJDI5YmRhNTk1LWM2MGYtNDhjOC05ODNmLWEyMzMxNWI0YzU1ZRgAIAAoADCVvMTHjTM469/z2cExQOvf89nBMUocNllBUEQ5eWtCd0duQklvQlk3dmx6T3ZFTmdJPVofIh21VDZCZzNYeFMyTEtKbFRTY3VBSXFOdkdZaEs0PWUAAAAAwj4CYAUSrQEICRKoAQocdUdNcnA3Y1ZORFB5T0k4L3dSMnBCaGNYZEp3PRIkNDg4OGNiOGEtYjY3ZC00ZGNhLThmMjItZmI5NWNjYjY4ZTRmGAAgACgAMJa8xMeNMzja6JWS1TJA2uiVktUyShxEMlRDdjR3dUVpaG9LZExKdWNoQlVVWnZEdnM9Wh8iHe1yVTlBWUxuZ0dScjYvaXplcDZsd05LeTdqREE9ZQAAAADCPgJgBRKtAQgIEqgBChxyLzZrbE1zdVpqNkhzbEZuelNBUTQ2Nml2bGc9EiQxYWUxZTljOC1hOTk1LTRiZGItYWY5Ni00OWYxN2JkYTRlZWYYACAAKAAwl7zEx40zOIPg89nBMUCD4PPZwTFKHEVKd24vMmNBckRQdEV0OFl4TFNVRXZ3MFRzWT1aHyId2m5md0hORkkwNVdNSmdRU2lyNGZ5aWZZeWdVOD1lAAAAAMI+AmAFEo4BCAISiQEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJGRiZjFiZGNlLTk1M2EtNTNlYy1hZjUxLTBmNWEyNzNmZDY0MxgAIAAoADDusvPZwTE4zrXz2cExQM6189nBMUocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAADCPgJgABKOAQgDEokBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiQwNjdlNTc0OS1lOTJhLTVmOTQtOTk2OS0xZDc3OGFkZjUwMjEYACAAKAAw8rLz2cExOIS289nBMUCEtvPZwTFKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAwj4CYAAwADgA",
+   "version": 1
+}
